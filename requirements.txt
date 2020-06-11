@@ -1,0 +1,5 @@
+python-vlc
+pygame
+kivy
+Cython
+pytaglib
